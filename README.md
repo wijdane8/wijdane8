@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Wijdan Alharbi and I'm a Devoloper, from Saudi Arabia .</h2>
+<h2 align="left">Hi 👋! My name is Wijdan Alharbi.</h2>
 
 ###
 
@@ -71,21 +71,15 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wijdane8/wijdane8/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=wijdane8" alt="Layout with last medium posts"  />
-<img height="151" src="https://i.gifer.com/Ao.gif" />
+  <img height="151" src="https://i.gifer.com/Ao.gif" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/wijdane8/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/wijdane8/count.svg?"/>
 </div>
 
 ###

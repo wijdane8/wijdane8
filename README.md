@@ -1,14 +1,23 @@
 <h2 align="left">Hi 👋! My name is Wijdan Alharbi.</h2>
 
-###
+ <img align="right" height="151" width="170" src="https://media.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" /><br>
 
+###
+<div>
+  <ul>
+   <li> ✨ web devolper since 2022</li>
+    <li>📚 I'm currently learning node.js  and cybersecurity.</li>
+    <li>🎯 Goals: To be unique in web development💻 and the strongest in cybersecurity🦾</li>
+</ul>
+</div><br><br>
+<h2 align="left">STATUS:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wijdane8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=wijdane8&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</div><br><br>
 
 ###
-
+<h2 align="left">MyTools:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -52,8 +61,8 @@
 </div>
 
 ###
-
-<div align="left">
+<h2 align="left">Accounts</h2>
+<div align="center">
   <a href="@wijdan.alharbi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -69,17 +78,11 @@
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=wijdane8" alt="Layout with last medium posts"  />
-  <img height="151" src="https://i.gifer.com/Ao.gif" />
-</div>
 
 ###
-
+<br><br>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/wijdane8/count.svg?"/>
+  viewers:<br><img src="https://profile-counter.glitch.me/wijdane8/count.svg?"/>
 </div>
 
 ###

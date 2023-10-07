@@ -79,7 +79,7 @@
   viewers:<br><img src="https://profile-counter.glitch.me/wijdane8/count.svg?"/>
 </div>
 <br>
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />

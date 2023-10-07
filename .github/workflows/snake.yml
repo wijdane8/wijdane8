@@ -1,8 +1,24 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.0.0
-  with:
-    github_user_name: wijdane8
-    outputs: |
-      dark.svg?palette=github-dark&color_snake=blue
-      light.svg?color_snake=#7845ab
-      ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+name: Generate Snake Game
+
+on:
+  push:
+    branches:
+      - main # or the branch you want to trigger this on
+
+jobs:
+  generate-snake-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Game
+        uses: Platane/snk@v3.0.0
+        with:
+          github_user_name: wijdane8
+          outputs: |
+            dark.svg?palette=github-dark&color_snake=blue
+            light.svg?color_snake=#7845ab
+            ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # You can add more steps if needed

@@ -79,9 +79,8 @@
   viewers:<br><img src="https://profile-counter.glitch.me/wijdane8/count.svg?"/>
 </div>
 <br>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wijdane8/wijdane8/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>

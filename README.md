@@ -81,12 +81,6 @@
 <br>
 
 <h2 align="left">GitHub Contribution Grid Snake Game</h2>
-
 ![Dark Mode Snake Game](dark.svg?palette=github-dark&color_snake=blue)
-![Dark Mode Snake Game](https://github.com/wijdane8/wijdane8/blob/main/dark.svg?palette=github-dark&color_snake=blue)
-
-
-![Light Mode Snake Game](https://github.com/wijdane8/wijdane8/output/main/light.svg
-)
-
-![Ocean Mode Snake Game](https://github.com/wijdane8/wijdane8/output/main/ocean.gif)
+![Light Mode Snake Game](light.svg?color_snake=#7845ab)
+![Ocean Mode Snake Game](ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)

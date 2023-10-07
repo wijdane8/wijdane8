@@ -79,8 +79,11 @@
   viewers:<br><img src="https://profile-counter.glitch.me/wijdane8/count.svg?"/>
 </div>
 <br>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+## GitHub Contribution Grid Snake Game
+
+![Dark Mode Snake Game](dark.svg?palette=github-dark&color_snake=blue)
+
+![Light Mode Snake Game](light.svg?color_snake=#7845ab)
+
+![Ocean Mode Snake Game](ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
+

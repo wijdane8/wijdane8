@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Wijdan Alharbi.</h2>
 
- <img align="right" height="151" width="170" src="https://media.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" /><br>
+ <img align="right" height="151" width="190" src="https://media.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" /><br>
 
 ###
 <div>

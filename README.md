@@ -82,7 +82,7 @@
 
 <h2 align="left">GitHub Contribution Grid Snake Game</h2>
 
-![Dark Mode Snake Game](https://github.com/wijdane8/wijdane8/output/main/dark.svg)
+![Dark Mode Snake Game](dark.svg?palette=github-dark&color_snake=blue)
 
 ![Light Mode Snake Game](https://github.com/wijdane8/wijdane8/output/main/light.svg
 )

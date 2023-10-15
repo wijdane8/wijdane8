@@ -17,7 +17,7 @@
 </div><br><br>
 
 ###
-<h2 align="left">MyTools:</h2>
+<h2 align="left">I KNOW ABOUT:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="python logo"  />
   <img width="5" />

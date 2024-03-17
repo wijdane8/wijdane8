@@ -6,7 +6,7 @@
 <div>
   <ul>
    <li> ✨ web devolper since 2022</li>
-    <li>📚 I'm currently learning node.js  and cybersecurity.</li>
+    <li>📚 I'm currently learning PHP Laravel  and AWS Cloud.</li>
     <li>🎯 Goals: To be unique in web development💻 and the strongest in cybersecurity🦾</li>
 </ul>
 </div><br><br>

@@ -112,7 +112,4 @@
   viewers:<br><img src="https://profile-counter.glitch.me/wijdane8/count.svg?"/>
 </div>
 <br>
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
-<p align="center">
-<a href="https://open.spotify.com/user/wijdane.ali"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 

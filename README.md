@@ -6,7 +6,7 @@
 <div>
   <ul>
    <li> ✨ web devolper since 2022</li>
-    <li>📚 I'm currently learning Node.js and CyberOps.</li>
+    <li>📚 I'm currently learning React.js & Asp.net .</li>
     <li>🎯 Goals: To be unique in web development💻 and the strongest in cybersecurity🦾</li>
 </ul>
 </div><br><br>

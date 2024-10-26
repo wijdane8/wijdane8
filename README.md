@@ -5,7 +5,7 @@
 ###
 <div>
   <ul>
-   <li> ✨ web devolper since 2022</li>
+   <li> ✨ Full stack web devolper</li>
     <li>📚 I'm currently learning React.js & .net .</li>
     <li>🎯 Goals: To be unique in web development💻 and the strongest in cybersecurity🦾</li>
 </ul>

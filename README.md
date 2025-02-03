@@ -1,9 +1,5 @@
 <h2 align="left">Hi 👋! My name is Wijdan Alharbi.</h2>
 
-<img align="right" height="151" width="190" src="https://media.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" /><br>
-
----
-
 ### 🚀 About Me  
 - 🔥 Passionate about building scalable web applications and mastering DevOps practices.  
 - 🛠️ Experienced in Full Stack Development, Cybersecurity, and Cloud Technologies.  

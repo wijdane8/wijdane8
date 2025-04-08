@@ -41,4 +41,4 @@ jobs:
           git commit -m "Update Snake Game contribution graph" || echo "No changes to commit"
           git push origin HEAD:${{ github.ref_name }}
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.WIJDAN_TOKEN }}

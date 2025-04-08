@@ -96,9 +96,8 @@
 </div>  
 ---
 
-### 🐍 My Contribution Graph
+### 🐍 My Contributions Graph
 
-Here's a cool visualization of my contributions!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />

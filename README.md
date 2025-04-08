@@ -94,3 +94,14 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/wijdane8/count.svg?" />
 </div>  
+---
+
+### 🐍 My Snake Contribution Graph
+
+Here's a cool visualization of my contributions!
+
+<div align="center">
+  <img src="images/dark.svg" alt="GitHub Snake - Dark Mode" />
+</div>
+
+---

@@ -96,7 +96,7 @@
 </div>  
 ---
 
-### 🐍 My Snake Contribution Graph
+### 🐍 My Contribution Graph
 
 Here's a cool visualization of my contributions!
 

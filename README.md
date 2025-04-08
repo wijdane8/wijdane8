@@ -100,9 +100,10 @@
 
 Here's a cool visualization of my contributions!
 
-<p align="center">
-  <img src="./images/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake (Dark)" />
-  <img src="./images/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake (Light)" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---

@@ -2,7 +2,7 @@
 
 ### 🚀 About Me   
 - 🔥 Passionate about building scalable web applications and mastering DevOps practices.   
-- 🛠️ Experienced in Full Stack Development, Cybersecurity, and Cloud Technologies.   
+- 🛠️ Experienced in Full Stack Development, and Cloud Technologies.   
 - 💡 Constantly learning new technologies to improve my development and security skills.   
 - 🌍 Open to collaborations and innovative projects.   
 
